@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="XBannerView">
+        <attr name="app_x_radius" format="float"></attr>
+        <attr name="app_y_radius" format="float"></attr>
+        <attr name="app_banner_height" format="integer"></attr>
+        <attr name="app_banner_width" format="integer"></attr>
+        <attr name="app_banner_margin" format="integer"></attr>
+        <attr name="app_banner_color" format="color|reference"></attr>
+    </declare-styleable>
+
+</resources>
